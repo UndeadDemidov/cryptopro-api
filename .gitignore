@@ -1,0 +1,11 @@
+# IDE stuff
+*.code-workspace
+
+# Distributives of cryptopro
+dist/*
+!dist/.keep
+
+# secret stuff
+keys/*
+!keys/.keep
+docs/*.sig
